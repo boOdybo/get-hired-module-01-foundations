@@ -1,4 +1,13 @@
-# GET HIRED | Module 01 — Foundations v3
+# GET HIRED — Module 01: WHO AM I?
+
+[افتح العرض المحدّث](https://boodybo.github.io/get-hired-module-01-foundations/) · [فهرس الوحدات 01–15](https://boodybo.github.io/get-hired-module-06-my-digital-presence/modules.html)
+
+النسخة الحالية في `docs/index.html` وتضم 14 شريحة بالصور والحركة وخط Alexandria. جرّب أمرًا واحدًا في ثلاث أدوات، ثم اكتب أمرًا يصوغ تعريفك المهني من أدلة تستطيع شرحها.
+
+يعمل العرض محليًا عند فتح الملف مباشرة. استخدم الفهرس أو الأسهم للانتقال بين الشرائح.
+
+<details>
+<summary>إرشادات الإصدار السابق وملفاته المساندة</summary>
 
 [فتح العرض التفاعلي](https://boodybo.github.io/get-hired-module-01-foundations/)
 
@@ -15,3 +24,5 @@
 **التحكم:** Space / السهم لليسار للكشف أو التقدم؛ R إعادة؛ N ملاحظات؛ O فهرس؛ F ملء الشاشة.
 
 **تحقق قبل العرض:** حجم الخط على جهاز العرض، اتجاه الرسم من اليمين إلى اليسار، توافر حسابات الأدوات، والاتصال.
+
+</details>
